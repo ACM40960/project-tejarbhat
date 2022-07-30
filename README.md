@@ -1,8 +1,8 @@
 
-# AI Meme Challenge
+# Identical Meme Classification: A Neural network approach
 <hr>
 
-The project aims to test the existing neural network algorithm for image classification of Meme images such as muffin and chihuahua dog which are very similar to each other.
+The project aims to test the existing neural network algorithm for image classification of Meme images such as muffin and chihuaha dogs which are very similar to each other.
 
 <img src="http://sanjay.ie/aditya/meme.jpg" height="300"/>
 
@@ -41,7 +41,7 @@ Google Colab is built for running Machine Learning projects hence has most of th
 
 ### GUI : Predicting the Image
 
-At the very end of the notebook, GUI will automatically run for testing, here you can upload a meme image from your local server/desktop and check the accuracy. You can download the dataset from [here](www.sanjay.ie/aditya/BACKUP.zip)
+At the very end of the notebook, GUI will automatically run for testing, here you can upload a meme image from your local server/desktop and check the accuracy. You can download the dataset from the repository.
 
 <img src="http://sanjay.ie/aditya/GUI.gif" height="400"/>
 
@@ -53,5 +53,5 @@ You can run this block as many times you want to test the images. The prediction
 
 - [@AdityaShetty_21200138](https://github.com/ACM40960/project-AdityaShetty24)
 
-- [@TejaBhat_21201067](https://github.com/ACM40960/project-tejarbhat)
+- [@TejaBhat_21201067](https://github.com/ACM40960/project-TejarBhat)
 
